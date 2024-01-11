@@ -5,7 +5,6 @@ const InvalidBarcodes = ({ barcodes }) => {
 
   return (
     <div id="invalidBarcodes">
-      <div className="barcodeHeader mt4 f5 fw6 black-40 bb pb2 mb3 pl1">Invalid Barcodes</div>
       {barcodes.map((item, i) => (
         item.isValid === false && (
           <span className="barcodeSpan" key={i}>

@@ -1,3 +1,4 @@
+//Potential Future Feature
 export const UPCLookup = (upc) => {
   // fetch(`https://www.upcitemdb.com/upc/${upc}`)
   //   .then(response => response.text())

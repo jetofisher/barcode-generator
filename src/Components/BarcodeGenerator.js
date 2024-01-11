@@ -5,7 +5,6 @@ const BarcodeGenerator = ({ barcodes }) => {
 
   return (
     <div id="divToPrint">
-      <div className="barcodeHeader mt4 f5 fw6 black-40 bb pb2 mb3 pl1">Valid Barcodes</div>
       {barcodes.map((item, i) => (
         item.isValid && (
           <span className="barcodeSpan" key={i}>
