@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/barcode-generator/static/css/main.231677d0.css",
-    "main.js": "/barcode-generator/static/js/main.ffd7baac.js",
-    "static/js/787.f85e0385.chunk.js": "/barcode-generator/static/js/787.f85e0385.chunk.js",
+    "main.css": "/barcode-generator/static/css/main.282fab86.css",
+    "main.js": "/barcode-generator/static/js/main.ed3932b7.js",
+    "static/js/453.01f8b518.chunk.js": "/barcode-generator/static/js/453.01f8b518.chunk.js",
     "service-worker.js": "/barcode-generator/service-worker.js",
     "index.html": "/barcode-generator/index.html",
-    "main.231677d0.css.map": "/barcode-generator/static/css/main.231677d0.css.map",
-    "main.ffd7baac.js.map": "/barcode-generator/static/js/main.ffd7baac.js.map",
-    "787.f85e0385.chunk.js.map": "/barcode-generator/static/js/787.f85e0385.chunk.js.map"
+    "main.282fab86.css.map": "/barcode-generator/static/css/main.282fab86.css.map",
+    "main.ed3932b7.js.map": "/barcode-generator/static/js/main.ed3932b7.js.map",
+    "453.01f8b518.chunk.js.map": "/barcode-generator/static/js/453.01f8b518.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.231677d0.css",
-    "static/js/main.ffd7baac.js"
+    "static/css/main.282fab86.css",
+    "static/js/main.ed3932b7.js"
   ]
 }
